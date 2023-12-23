@@ -1,4 +1,3 @@
-package NewProblems;
 import java.util.*;
 import java.io.*;
 /**
