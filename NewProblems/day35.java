@@ -1,12 +1,7 @@
 /**
  * day35
  */
-public class day35 {
-
-    
-}
-class Solution {
-    
+public class day35 {    
     public long maxSumWithK(long a[], long n, long k)
     {
         long currentSum = 0;
